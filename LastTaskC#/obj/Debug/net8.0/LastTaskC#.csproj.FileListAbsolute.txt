@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\LastTaskC#\LastTaskC#\bin\Debug\net8.0\LastTaskC#.exe
+C:\Users\ASUS\source\repos\LastTaskC#\LastTaskC#\bin\Debug\net8.0\LastTaskC#.deps.json
+C:\Users\ASUS\source\repos\LastTaskC#\LastTaskC#\bin\Debug\net8.0\LastTaskC#.runtimeconfig.json
+C:\Users\ASUS\source\repos\LastTaskC#\LastTaskC#\bin\Debug\net8.0\LastTaskC#.dll
+C:\Users\ASUS\source\repos\LastTaskC#\LastTaskC#\bin\Debug\net8.0\LastTaskC#.pdb
+C:\Users\ASUS\source\repos\LastTaskC#\LastTaskC#\obj\Debug\net8.0\LastTaskC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\LastTaskC#\LastTaskC#\obj\Debug\net8.0\LastTaskC#.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\LastTaskC#\LastTaskC#\obj\Debug\net8.0\LastTaskC#.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\LastTaskC#\LastTaskC#\obj\Debug\net8.0\LastTaskC#.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\LastTaskC#\LastTaskC#\obj\Debug\net8.0\LastTaskC#.dll
+C:\Users\ASUS\source\repos\LastTaskC#\LastTaskC#\obj\Debug\net8.0\refint\LastTaskC#.dll
+C:\Users\ASUS\source\repos\LastTaskC#\LastTaskC#\obj\Debug\net8.0\LastTaskC#.pdb
+C:\Users\ASUS\source\repos\LastTaskC#\LastTaskC#\obj\Debug\net8.0\LastTaskC#.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\LastTaskC#\LastTaskC#\obj\Debug\net8.0\ref\LastTaskC#.dll
